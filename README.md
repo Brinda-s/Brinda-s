@@ -8,7 +8,7 @@
 ---
 
 - 🧱 I build systems from the protocol up — a **Redis server, Kafka broker, and Unix shell**, all from scratch in Java
-- - 🔭 I'm currently designing **PhoneShame**, a real-time phone-usage detector built on a fine-tuned YOLOv8n model with a React/Vite frontend
+- 🔭 I'm currently designing **PhoneShame**, a real-time phone-usage detector built on a fine-tuned YOLOv8n model with a React/Vite frontend
 - 🌱 Exploring **LLM agents, multimodal ML, and backend performance engineering**
 - 💼 Open to **Software Engineer / Machine Learning Engineer** roles (2026 grad)
 - 💬 Ask me about **distributed systems, backend, concurrency, or robotics**
